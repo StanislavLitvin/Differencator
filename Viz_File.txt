@@ -1,0 +1,10 @@
+digraph Tree_Dump_Graphviz
+{
+	rankdir=TB;
+	node [fontcolor="#220808"];
+	bgcolor="#EADF9D";
+	margin=0.2;
+	pad=0.2;
+
+	node0000015c75c26a60[shape=Mrecord, label="+", style = "filled", fillcolor = "#3EB8D7"];
+}
